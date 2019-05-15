@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 hello
 
-Toshiki Edit
+Toshiki Edit 2.0
 =======
 push test
 
