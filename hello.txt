@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello
 
 Toshiki Edit
+=======
+push test
+
+>>>>>>> e81d7645cacffadf676d96a93960797b88997ef1
